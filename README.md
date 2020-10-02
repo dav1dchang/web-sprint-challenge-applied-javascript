@@ -28,13 +28,23 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What is the DOM?
 
+Document object model, it's used to interface with HTML documents directly.
+
 2. What is an event?
+
+It is an instance when a user interacts with the program/page/system.
 
 3. What is an event listener?
 
+It's a function that executes upon a specific event it is targetting triggering,
+
 4. Why would we convert a NodeList into an Array?
 
+Perhaps you want to use array methods on the NodeList.
+
 5. What is a component?
+
+It's pretty much a reusable constructor that you can utilize to create custom elements. 
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
